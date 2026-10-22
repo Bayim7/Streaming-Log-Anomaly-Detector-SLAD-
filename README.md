@@ -6,8 +6,8 @@ This project is **in active development**. It applies ideas from my JKU coursewo
 
 ## Status
 
-- [x] Simulated log stream (`Faker`, `asyncio`)
-- [x] FastAPI service exposing a health endpoint
+- [] Simulated log stream (`Faker`, `asyncio`)
+- [] FastAPI service exposing a health endpoint
 - [ ] Replay of labelled real logs from [LogHub](https://github.com/logpai/loghub) (BGL first)
 - [ ] Window features computed with streaming sketches (Apache DataSketches)
 - [ ] Online anomaly detector (River) plus simple baselines
